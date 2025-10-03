@@ -5,3 +5,4 @@ Github pages deployment steps for Angular project.
 - Copy the name of the created repository and place it in the href of the base in the index.html file
 - Save, add, commit and push.
 - Go to settings>pages on the repository, select root, then deployment starts.
+- It can be monitored from "Actions".
